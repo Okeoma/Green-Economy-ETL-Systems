@@ -1,0 +1,107 @@
+.home {
+	width: 100px;
+	height: 60px;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+
+.about {
+	margin-left: 45px;
+	width: 100px;
+	height: 60px;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+
+.info1 {
+	margin-left: 45px;
+	width: 250px;
+	height: 60px;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+
+.exit {
+	margin-left: 45px;
+	width: 100px;
+	height: 60px;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+
+.about2 {
+	margin-left: 555px;
+	width: 210px;
+	height: 60px;
+	background-color: #63077A;
+	color: white;
+	border-radius: 12px;
+}
+
+.home_text {
+	font-size: 90px;
+	font: bold;
+	color: #B530CB;
+}
+
+.home_paragraph {
+	font-size: 45px;
+	font: bold;
+}
+
+.home_paragraph1 {
+	font-size: 35px;
+	font: bold;
+}
+
+.about_text1 {
+	font-size: 45px;
+	font: bold;
+	color: #B530CB;
+}
+
+.about_paragraph1 {
+	font-size: 25px;
+	font: bold;
+}
+
+.about_paragraph2 {
+	font-size: 25px;
+	font: bold;
+}
+
+.about1 {
+	margin-left: 555px;
+	width: 210px;
+	height: 60px;
+	background-color: #63077A;
+	color: white;
+	border-radius: 12px;
+}
+
+.buissness {
+	margin-left: 555px;
+	width: 410px;
+	height: 60px;
+	background-color: #63077A;
+	color: white;
+	border-radius: 12px;
+}
+
+.buissness1 {
+	margin-left: 555px;
+	width: 510px;
+	height: 60px;
+	background-color: #63077A;
+	color: white;
+	border-radius: 12px;
+}
+
+header {
+	background-color: #CB3EEE;
+	height: 100px;
+}
